@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्क्रीन टू फेस डिस्टेंस</string>
+
+    <string name="currentDistance">Click Calibrate To Calculate Distance</string>
+    <string name="calibrate">दूरी की गणना करने के लिए कैलिब्रेट पर क्लिक करें!</string>
+    <string name="reset">रीसेट</string>
+    <string name="showMiddlePoint">मध्य नेत्र बिंदु</string>
+    <string name="hello_blank_fragment">नमस्ते खाली टुकड़ा</string>
+</resources>
